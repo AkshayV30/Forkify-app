@@ -1,0 +1,22 @@
+{
+  "name": "forkify-app",
+  "version": "0.0.1",
+  "description": "food menu app",
+  "default": "index.html",
+  "scripts": {
+    "start-app": "parcel index.html",
+    "build-app": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "AkshayV30",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3",
+    "fractional": "^1.0.0",
+    "parcel": "^2.9.3",
+    "sass": "^1.66.1"
+  },
+  "dependencies": {
+    "core-js": "^3.32.1",
+    "regenerator-runtime": "^0.14.0"
+  }
+}
