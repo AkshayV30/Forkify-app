@@ -1,4 +1,4 @@
-[![pages-build-deployment](https://github.com/AkshayV30/forkify-udemy-practice/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AkshayV30/forkify-udemy-practice/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/AkshayV30/Forkify-app/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AkshayV30/Forkify-app/actions/workflows/pages/pages-build-deployment)
 
 This is an Forkify app that have alist of recipes using REST API
 
