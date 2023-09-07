@@ -1,6 +1,4 @@
-[![pages-build-deployment](https://github.com/AkshayV30/Forkify-app/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AkshayV30/Forkify-app/actions/workflows/pages/pages-build-deployment)
-
-This is an Forkify app that have alist of recipes using REST API
+This is an Forkify app that have alist of recipes
 
 | Technologies used: |
 | ------------------ |
